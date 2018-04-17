@@ -1,4 +1,4 @@
 #!/bin/sh
 
-curl -L https://github.com/coresolve.keys >> /ssh/authorized_keys
+curl -L https://github.com/mauilion.keys >> /ssh/authorized_keys
 
